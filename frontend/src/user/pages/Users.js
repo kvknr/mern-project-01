@@ -6,7 +6,7 @@ const Users = () => {
   const USERS = [
     {
       id: "u1",
-      name: "Vinoth Kumar M",
+      name: "Vinoth",
       image:
         "https://c1.wallpaperflare.com/preview/505/26/527/stylish-boy-fashion-man-s-fashion-blurry-background.jpg",
       placeCount: 3,
